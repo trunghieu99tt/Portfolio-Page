@@ -1,0 +1,53 @@
+.skills {
+    padding: 22px;
+
+    &-mainContent {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 15px;
+
+        @include respond(phone) {
+            display: block;
+        }
+    }
+}
+
+.skillBar {
+    margin-bottom: 2rem;
+    width: 45%;
+
+    @include respond(phone) {
+        width: 100%;
+    }
+
+    &-heading {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+        p {
+            font-size: 16px;
+
+            @include respond(phone) {
+                font-size: 12px;
+            }
+        }
+    }
+
+    .progress-bar {
+        background-color: #c4c4c4;
+        height: 8px;
+        border-radius: 999px;
+        position: relative;
+
+        &__inner {
+            position: absolute;
+            height: 100%;
+            content: "";
+            background: rgba(47, 128, 237, 0.7);
+            top: 0;
+            left: 0;
+            border-radius: 999px;
+        }
+    }
+}

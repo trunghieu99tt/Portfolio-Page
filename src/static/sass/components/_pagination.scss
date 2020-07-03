@@ -1,0 +1,54 @@
+.pagination-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px;
+    padding: 15px;
+
+    .pagination {
+        display: flex;
+        align-items: center;
+
+        &-item {
+            margin: 0 10px;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            border: 0.5px solid $blue-1;
+            border-radius: 5px;
+
+            @include respond(phone) {
+                padding: 5px 10px;
+                margin: 0 10px;
+                border: none;
+                margin-top: 3px;
+            }
+
+            button {
+                color: #000;
+                background: transparent;
+                border: none;
+                cursor: pointer;
+
+                &:focus {
+                    outline: none;
+                }
+            }
+
+            &--active {
+                background: #3dbaec;
+
+                @include respond(phone) {
+                    margin-top: 0;
+                    background: $blue-1;
+                }
+
+                button {
+                    color: #fff;
+                    font-weight: 800;
+                }
+            }
+        }
+    }
+}
