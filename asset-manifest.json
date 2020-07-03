@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Page/static/css/main.6d059b3b.chunk.css",
+    "main.js": "/Portfolio-Page/static/js/main.01ad1950.chunk.js",
+    "main.js.map": "/Portfolio-Page/static/js/main.01ad1950.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Page/static/js/runtime-main.5641c713.js",
+    "runtime-main.js.map": "/Portfolio-Page/static/js/runtime-main.5641c713.js.map",
+    "static/js/2.c743e518.chunk.js": "/Portfolio-Page/static/js/2.c743e518.chunk.js",
+    "static/js/2.c743e518.chunk.js.map": "/Portfolio-Page/static/js/2.c743e518.chunk.js.map",
+    "index.html": "/Portfolio-Page/index.html",
+    "precache-manifest.d05482ca8e1c93ff9a43bc49bd691db3.js": "/Portfolio-Page/precache-manifest.d05482ca8e1c93ff9a43bc49bd691db3.js",
+    "service-worker.js": "/Portfolio-Page/service-worker.js",
+    "static/css/main.6d059b3b.chunk.css.map": "/Portfolio-Page/static/css/main.6d059b3b.chunk.css.map",
+    "static/js/2.c743e518.chunk.js.LICENSE.txt": "/Portfolio-Page/static/js/2.c743e518.chunk.js.LICENSE.txt",
+    "static/media/avante.PNG": "/Portfolio-Page/static/media/avante.e238a942.PNG",
+    "static/media/avatar.jpg": "/Portfolio-Page/static/media/avatar.74b8c3c5.jpg",
+    "static/media/chrismas-min.PNG": "/Portfolio-Page/static/media/chrismas-min.5e005f87.PNG",
+    "static/media/clothing-shop-min.PNG": "/Portfolio-Page/static/media/clothing-shop-min.43cf6051.PNG",
+    "static/media/cosmeticshop-min.PNG": "/Portfolio-Page/static/media/cosmeticshop-min.2c7c3106.PNG",
+    "static/media/goibacsi.PNG": "/Portfolio-Page/static/media/goibacsi.bad6fa05.PNG",
+    "static/media/img4-min.png": "/Portfolio-Page/static/media/img4-min.0b77d168.png",
+    "static/media/img5.jpg": "/Portfolio-Page/static/media/img5.abd36a9d.jpg",
+    "static/media/memory-card-min.PNG": "/Portfolio-Page/static/media/memory-card-min.6c63a1aa.PNG",
+    "static/media/messenger.PNG": "/Portfolio-Page/static/media/messenger.73378638.PNG",
+    "static/media/music-player-min.PNG": "/Portfolio-Page/static/media/music-player-min.bd9550df.PNG",
+    "static/media/nhathuoc-min.PNG": "/Portfolio-Page/static/media/nhathuoc-min.54c1714b.PNG",
+    "static/media/omnifood-min.PNG": "/Portfolio-Page/static/media/omnifood-min.a2fca4e3.PNG",
+    "static/media/tigren-logo.png": "/Portfolio-Page/static/media/tigren-logo.427f803f.png",
+    "static/media/todo-min.PNG": "/Portfolio-Page/static/media/todo-min.68e1267b.PNG",
+    "static/media/vgasoft-min.PNG": "/Portfolio-Page/static/media/vgasoft-min.c7c10ad1.PNG",
+    "static/media/videoblog-min.PNG": "/Portfolio-Page/static/media/videoblog-min.6205c663.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5641c713.js",
+    "static/js/2.c743e518.chunk.js",
+    "static/css/main.6d059b3b.chunk.css",
+    "static/js/main.01ad1950.chunk.js"
+  ]
+}
